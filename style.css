@@ -59,6 +59,7 @@
         font-size: 40px;
         margin-top: 10px;
         margin-bottom: 10px;
+        width: 80%;
     }
     
     .subtitulo {
@@ -328,7 +329,7 @@
     
     @media screen and (max-width: 767px) {
         .titulo {
-            font-size: 21px;
+            font-size: 40px;
         }
         .subtitulo {
             font-size: 15px;
